@@ -1,0 +1,26 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1444406028480">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="3867457149" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="livohub-slider-u266-fr.png" crc="4032852870" ref="index"/>
+    <file name="livohub-slider-u266-r-fr.png" crc="432368423" ref="index"/>
+    <file name="unihub-slider-u295-fr.png" crc="4156718500" ref="index"/>
+    <file name="unihub-slider-u295-r-fr.png" crc="432368423" ref="index"/>
+    <file name="dynahub-slider-u290-fr.png" crc="3855784170" ref="index"/>
+    <file name="dynahub-slider-u290-r-fr.png" crc="432368423" ref="index"/>
+    <file name="synehub-slider-u285-fr.png" crc="4156209791" ref="index"/>
+    <file name="synehub-slider-u285-r-fr.png" crc="432368423" ref="index"/>
+    <file name="a.png" crc="4041984781" ref="index"/>
+    <file name="picture2.png" crc="3943537917" ref="index"/>
+  </folder>
+  <file name="index.html" crc="334051903" mt="1444406003570" redirect="true"/>
+</manifest>
